@@ -12,7 +12,8 @@
     "@vue/cli-plugin-eslint": {
       "config": "prettier",
       "lintOn": [
-        "save"
+        "save",
+        "commit"
       ]
     },
     "@vue/cli-plugin-e2e-cypress": {}
